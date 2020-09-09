@@ -27,4 +27,6 @@ https://tensorboard.dev/experiment/KpfJowPcRgq2S5X0lzYtLA/
 - 0.7dropout-batchnorm-softmax-RMSprop-binary_crossentropy-20epochs
 '''
 
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/tensorboard.jpg)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_Part_1/hist1.png)
+
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_Part_1/hist1_loss.png)
