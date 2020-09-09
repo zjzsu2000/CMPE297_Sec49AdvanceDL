@@ -11,4 +11,20 @@ Jacky Chow (Jie Zou) ID:014545284
 In this colab, I will illustrate how Semi-supervised learning works through a simple example based on the credit_card_data.
 
 ##Results
-TensorBoard live at: https://tensorboard.dev/experiment/NBtoBFeWSN2dMjdvAXF5ng/
+'''
+### tensorboard.dev
+'''
+https://tensorboard.dev/experiment/KpfJowPcRgq2S5X0lzYtLA/
+'''
+
+# Tuning Hyperparameters:
+'''
+- 3conv-0.8dropout-batchnorm-sigmoid-adam-binary_crossentropy-20epochs
+- 3conv-0.8dropout-batchnorm-softmax-RMSprop-binary_crossentropy-20epochs
+- 3conv-0.7dropout-batchnorm-softmax-RMSprop-categorical_crossentropy-20epochs
+- 3conv-0.7dropout-batchnorm-softmax-adam-categorical_crossentropy-20epochs
+- 3conv-0.6dropout-batchnorm-softmax-RMSprop-binary_crossentropy-20epochs
+- 3conv-0.7dropout-batchnorm-softmax-RMSprop-binary_crossentropy-20epochs
+'''
+
+![image](https://github.com/zjzsu2000/CMPE258/blob/master/assignment3/tensorboard_dev.jpg)
