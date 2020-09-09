@@ -19,3 +19,8 @@ Generally, multi-instance learning can deal with classification problems, regres
 In this colab, I will illustrate how MIL works through a simple example based on the German credit data set.
 
 TensorBoard live at: https://tensorboard.dev/experiment/NBtoBFeWSN2dMjdvAXF5ng/
+
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_Part_1/hist1.png)
+
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_Part_1/hist1_loss.png)
+
