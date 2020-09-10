@@ -25,10 +25,13 @@ In this colab, I will illustrate how Semi-supervised learning works through a si
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/result3_2.png)
 
 ### semi-supervised
-
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/semi-train1-1.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/semi-train1-2.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/semi-test-1.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/semi-test-1.png)
 
 ### tensorboard.dev
 '''
-https://tensorboard.dev/experiment/KpfJowPcRgq2S5X0lzYtLA/
+https://tensorboard.dev/experiment/ehesdVQZTwqv8LbOPdqlLw/#scalars
 '''
 
