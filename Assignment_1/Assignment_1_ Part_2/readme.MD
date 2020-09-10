@@ -12,6 +12,10 @@ In this colab, I will illustrate how Semi-supervised learning works through a si
 
 ##Results
 '''
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/result1_!.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/result1_2.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/gbm1-1.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/gbm1-2.png)
 ### tensorboard.dev
 '''
 https://tensorboard.dev/experiment/KpfJowPcRgq2S5X0lzYtLA/
@@ -19,12 +23,6 @@ https://tensorboard.dev/experiment/KpfJowPcRgq2S5X0lzYtLA/
 
 # Tuning Hyperparameters:
 '''
-- 8dropout-batchnorm-sigmoid-adam-binary_crossentropy-20epochs
-- 0.8dropout-batchnorm-softmax-RMSprop-binary_crossentropy-20epochs
-- 0.7dropout-batchnorm-softmax-RMSprop-categorical_crossentropy-20epochs
-- 0.7dropout-batchnorm-softmax-adam-categorical_crossentropy-20epochs
-- 0.6dropout-batchnorm-softmax-RMSprop-binary_crossentropy-20epochs
-- 0.7dropout-batchnorm-softmax-RMSprop-binary_crossentropy-20epochs
 '''
 
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/tensorboard.jpg)
