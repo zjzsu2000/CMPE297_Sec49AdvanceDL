@@ -15,16 +15,16 @@ CIFAR10 dataste: There are 60,000 32×32-pixel color images in 10 classes https:
 
 
 ## resizing
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/resizing.png）
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/resizing.png)
 
 ## mixup
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/mixup.png）
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/mixup.png)
 
 ### mixup pic show
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/mixup_plane_horse.png）
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/mixup_plane_horse.png)
 
 ## tta
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/tta.png）
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/tta.png)
 
 ## Label Smoothing
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/Label_Smoothing.png）
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment%202/Label_Smoothing.png)
