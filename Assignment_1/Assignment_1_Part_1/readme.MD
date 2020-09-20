@@ -15,6 +15,8 @@ In the MIL framework, slides are "packages" and tiles are "instances". By using 
 When we receive a pathological section of a patient, we want to predict whether the large section contains cancer cells, or whether the patient has malignant cells. Multi-instance learning is a good choice because the doctor does not need to divide a single cell or divide each cell. Cells are labeled with tiles. Only the entire slide requires labels.
 Generally, multi-instance learning can deal with classification problems, regression problems, ranking problems, and clustering problems, but here we will mainly focus on classification problems.
 
+Packaging different lenders into a loan package to form mutual guarantees is also a good way to reduce loan risks. So we can use multi-instance learning this tool to achieve the goal (pack different lenders into bags, and label the entire group of lenders with the individual labels ).
+
 ## Target
 In this colab, I will illustrate how MIL works through a simple example based on the German credit data set.
 
