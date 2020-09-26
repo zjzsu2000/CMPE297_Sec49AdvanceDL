@@ -8,10 +8,10 @@ Use tensorflow hub model of simclr v2 and finetune and do supervised classificat
 
 refs:
 
-https://arxiv.org/pdf/2002.05709.pdf
-https://medium.com/analytics-vidhya/understanding-simclr-a-simple-framework-for-contrastive-learning-of-visual-representations-d544a9003f3c
-https://amitness.com/2020/03/illustrated-simclr/
-https://amitness.com/2020/02/illustrated-self-supervised-learning/
+*  https://arxiv.org/pdf/2002.05709.pdf
+*  https://medium.com/analytics-vidhya/understanding-simclr-a-simple-framework-for-contrastive-learning-of-visual-representations-d544a9003f3c
+*  https://amitness.com/2020/03/illustrated-simclr/
+*  https://amitness.com/2020/02/illustrated-self-supervised-learning/
 
 ## b) Optional : Advanced topic (extra credit - optional - not mandatory - only for people who have
 some time to work on.) : semi supervised training with simclr -v2
@@ -21,12 +21,21 @@ implement simclr-v2 in tensorflow 2 from scratch (using utility functions) and s
 (imagenet-5 categories)
 
 refs:
-https://github.com/sayakpaul/SimCLR-in-TensorFlow-2
+*  https://github.com/sayakpaul/SimCLR-in-TensorFlow-2
+
+
+## c) Optional : Knowledge distillation with kera (knowledge distillation practice - student-teacher training)
+
+Write a colab to do knowledge distillation in keras (student/teacher model) 
+
+refs:
+*  https://github.com/sayakpaul/Knowledge-Distillation-in-Keras
+
 
 ## pics:
 '''
 ### a) 
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/result1_!.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/iterations_10_sess.jpg)
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/result1_2.png)
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/gbm1-1.png)
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/gbm1-2.png)
