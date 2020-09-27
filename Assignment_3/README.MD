@@ -40,10 +40,10 @@ refs:
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_1/Assignment_1_%20Part_2/gbm1-2.png)
 
 ### d)
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/d)_teacher_model_summary.png)
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/d)_teacher_model_train.png)
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/d)_teacher_model_evaluate.png)
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/d)_student_model_summary.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/d\)_teacher_model_summary.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/d\)_teacher_model_train.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/d\)_teacher_model_evaluate.png)
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_3/d\)_student_model_summary.png)
 
 
 
