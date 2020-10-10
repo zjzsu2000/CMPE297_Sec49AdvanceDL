@@ -6,7 +6,7 @@
 
 
 
-[D]eep learning is a part of machine learning that learns data representations. Many of the fundamental tasks (with appropriate reformulation) in deep learning are relevant to a much broader array of domains, and in particular, have tremendous potential in aiding the investigation of central scientific questions. There are many different Applications and Implementation of deep learning in different fields.
+[Deep learning] is a part of machine learning that learns data representations. Many of the fundamental tasks (with appropriate reformulation) in deep learning are relevant to a much broader array of domains, and in particular, have tremendous potential in aiding the investigation of central scientific questions. There are many different Applications and Implementation of deep learning in different fields.
 
 The Application and Implementation of deep learning in more and more wise fields is a hot topic in machine learning, neural networks, and deep learning. There have been many relevant studies on how to correctly select a deep learning approach. The proposal aims to propose a short story about the application and implementation of different deep learning. According to the author of the article "A Survey of Deep Learning for Scientific Discovery " (source: [!link](https://arxiv.org/pdf/2003.11755.pdf)), numerous studies have been published resulting in various models in the field of deep learning (DL) has recently begun to receive Widely concerned, this is mainly due to its better performance than the classic model.
 
