@@ -1,6 +1,6 @@
 # Application and Implementation of different deep learning
 
-##(Proposal of the short story)
+## (Proposal of the short story)
                                                                                                           Jack Chow(Jie Zou)
                                                                                                           ID:014545284
 
