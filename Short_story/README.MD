@@ -16,10 +16,10 @@ The short story's structure and format will begin with the introduction of Deep 
 
 
 ## Short Story@ Medium
-https://medium.com/@jie.zou/application-of-machine-learning-deep-learning-in-finance-investment-30f744e55551
+https://jie-zou.medium.com/application-and-implementation-of-different-deep-learning-cc821c169522
 
 ## Slideshare
-https://www.slideshare.net/JIEJackyZOUChou/application-of-ml-dl-in-finance-investment-234092387
+https://www.slideshare.net/JIEJackyZOUChou/shortstoryppt
 
 ## Video
 https://drive.google.com/file/d/1MNvXYRSiePVEtxKxVihJxE_owqZobWLt/view?usp=sharing
