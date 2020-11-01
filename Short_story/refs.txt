@@ -1,0 +1,38 @@
+A Survey of Deep Learning for Scientific Discovery , https://arxiv.org/pdf/2003.11755.pdf
+Deep learning sharpens views of cells and genes, https://www.nature.com/articles/d41586-018-00004-w
+
+Predicting Cardiovascular Risk Factors from Retinal Fundus Photographs using Deep Learning, https://arxiv.org/ftp/arxiv/papers/1708/1708.09843.pdf
+
+Deep learning takes on synthetic biology, https://www.sciencedaily.com/releases/2020/10/201007085615.htm
+
+Recent Advances of Deep Learning in Bioinformatics and Computational Biology, https://www.frontiersin.org/articles/10.3389/fgene.2019.00214/full
+
+Deep learning for biology
+https://www.nature.com/articles/d41586-018-02174-z
+
+Multiple Instance Learning with MNIST dataset using Pytorch
+https://medium.com/swlh/multiple-instance-learning-c49bd21f5620
+
+Review of Multi-Instance Learning and Its applications
+https://www.cs.cmu.edu/~juny/MILL/review.htm
+
+[1] Santoro, Adam, Bartunov, Sergey, Botvinick, Matthew, Wierstra, Daan, and Lillicrap, Timothy. Meta-learning with memory-augmented neural networks. In Proceedings of The 33rd International Conference on Machine Learning, pp. 1842–1850, 2016.
+[2] Munkhdalai T, Yu H. Meta Networks. arXiv preprint arXiv:1703.00837, 2017.
+Andrychowicz, Marcin, Denil, Misha, Gomez, Sergio, Hoffman, Matthew W, Pfau, David, Schaul, Tom, and de Freitas, Nando. Learning to learn by gradient descent by gradient descent. In Advances in Neural Information Processing Systems, pp. 3981–3989, 2016
+
+Ravi, Sachin and Larochelle, Hugo. Optimization as a model for few-shot learning. In International Conference on Learning Representations (ICLR), 2017.
+
+Andrychowicz, Marcin, Denil, Misha, Gomez, Sergio, Hoffman, Matthew W, Pfau, David, Schaul, Tom, and de Freitas, Nando. Learning to learn by gradient descent by gradient descent. In Advances in Neural Information Processing Systems, pp. 3981–3989, 2016
+
+
+[1] Wang J X, Kurth-Nelson Z, Tirumala D, et al. Learning to reinforcement learn. arXiv preprint arXiv:1611.05763, 2016.
+
+[2] Y. Duan, J. Schulman, X. Chen, P. Bartlett, I. Sutskever, and P. Abbeel. Rl2: Fast reinforcement learning via slow reinforcement learning. Technical report, UC Berkeley and OpenAI, 2016.
+
+[1] Finn, C., Abbeel, P., & Levine, S. (2017). Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. arXiv preprint arXiv:1703.03400.
+
+[1] Mishra N, Rohaninejad M, Chen X, et al. Meta-Learning with Temporal Convolutions. arXiv preprint arXiv:1707.03141, 2017.
+
+[1] Flood Sung, Zhang L, Xiang T, Hospedales T, et al. Learning to Learn: Meta-Critic Networks for Sample Efficient Learning. arXiv preprint arXiv:1706.09529, 2017.https://arxiv.org/pdf/1706.09529.pdf
+
+Ravi, Sachin and Larochelle, Hugo. Optimization as a model for few-shot learning. In International Conference on Learning Representations (ICLR), 2017.
