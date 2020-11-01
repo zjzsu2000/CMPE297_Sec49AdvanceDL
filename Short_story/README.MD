@@ -4,7 +4,7 @@
 By Jacky Chow(Jie Zou)
 ID:014545284
 
-## (Proposal of the short story)                                                                                                      
+## Proposal of the short story                                                                                                    
                                                                                                          
 [Deep learning] is a part of machine learning that learns data representations. Many of the fundamental tasks (with appropriate reformulation) in deep learning are relevant to a much broader array of domains, and in particular, have tremendous potential in aiding the investigation of central scientific questions. There are many different Applications and Implementation of deep learning in different fields.
 
@@ -22,9 +22,9 @@ https://jie-zou.medium.com/application-and-implementation-of-different-deep-lear
 https://www.slideshare.net/JIEJackyZOUChou/application-and-implementation-of-different-deep-learning-239038740
 
 ## Video
-https://drive.google.com/file/d/1MNvXYRSiePVEtxKxVihJxE_owqZobWLt/view?usp=sharing
+https://drive.google.com/file/d/1XiaOidNx6SB4SCkCy3z7726hxIA_4C8x/view?usp=sharing
 
 or
 
-https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Short_story/short_story.mp4
+https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Short_story/short_story_2000_10_JC.mp4
 
