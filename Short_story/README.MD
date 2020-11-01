@@ -19,7 +19,7 @@ The short story's structure and format will begin with the introduction of Deep 
 https://jie-zou.medium.com/application-and-implementation-of-different-deep-learning-cc821c169522
 
 ## Slideshare
-https://www.slideshare.net/JIEJackyZOUChou/shortstoryppt
+https://www.slideshare.net/JIEJackyZOUChou/application-and-implementation-of-different-deep-learning
 
 ## Video
 https://drive.google.com/file/d/1MNvXYRSiePVEtxKxVihJxE_owqZobWLt/view?usp=sharing
