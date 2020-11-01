@@ -12,10 +12,10 @@
 A curated set of papers along with code.
 
 ### [Multi-task-Learning] ()
-https://ruder.io/multi-task/
-https://github.com/huggingface/nlp
-https://github.com/zphang/zphang.github.io/tree/master/files/notebooks
-https://autokeras.com/tutorial/multi/
+* https://ruder.io/multi-task/
+* https://github.com/huggingface/nlp
+* https://github.com/zphang/zphang.github.io/tree/master/files/notebooks
+* https://autokeras.com/tutorial/multi/
 
 ### [Meta-Learning] ()
 * https://learning.oreilly.com/library/view/hands-on-meta-learning/9781789534207/920f24f5-4b55-4057-8af0-0a8e8fcd9a05.xhtml
