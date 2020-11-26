@@ -14,3 +14,7 @@ https://tensorboard.dev/experiment/mrLoXlKVSNePbFLu6ek3lg/
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/accucy_5a.png) 
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/loss_5a.jpeg) 
 
+
+
+#  Extra_credit_assignment5_4)_Data_augmentation_using_GPT2
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/data_augmentation_GPT2.jpg)
