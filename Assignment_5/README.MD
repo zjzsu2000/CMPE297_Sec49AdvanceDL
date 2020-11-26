@@ -18,8 +18,8 @@ https://tensorboard.dev/experiment/mrLoXlKVSNePbFLu6ek3lg/
 ## tensorboard visualization
 https://tensorboard.dev/experiment/fvel1j5YTBaW8l72wNlv2Q/
 
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/acc_5b)embeddings.jpg) 
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/loss_5_b).jpg) 
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/acc_5b\)embeddings.jpg) 
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/loss_5_b\).jpg) 
 
 
 #  Extra_credit_assignment5_3) text_extraction_with_bert
