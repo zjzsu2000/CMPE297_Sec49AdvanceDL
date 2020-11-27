@@ -1,10 +1,10 @@
 # Assignment_7_Gradient_boost_machines
 
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b1.png) 
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b_1.png) 
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b.png) 
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b10.png) 
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b20.png) 
-![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b30.png) 
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b_10.png) 
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b_20.png) 
+![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_7/7_gradient_b_30.png) 
 
 
 # Extra_assignment_7_b)_catboost
