@@ -2,6 +2,7 @@
 
 ## tensorboard visualization
 https://tensorboard.dev/experiment/mrLoXlKVSNePbFLu6ek3lg/
+https://tensorboard.dev/experiment/GFEpzNABTBmF5wief4TL7g/
 
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/accucy_transformer.png) 
 ![image](https://github.com/zjzsu2000/CMPE297_Sec49AdvanceDL/blob/master/Assignment_5/loss_transformers.jpeg) 
